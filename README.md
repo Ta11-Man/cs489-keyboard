@@ -2,7 +2,7 @@
 
 A handwired keyboard close to a corne, with heavy inspiration and models used from [Joe-Scotto's](https://github.com/joe-scotto/scottokeebs) [Scotto44](https://github.com/joe-scotto/scottokeebs/tree/main/Scotto44).
 
-![Keyboard main layout](media/L0-layer.png)
+![Keyboard main layout](./media/L0-layer.png)
 
 We used Arduino IDE and the Arduino keyboard coding library.
 
