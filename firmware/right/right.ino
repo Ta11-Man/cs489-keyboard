@@ -58,7 +58,7 @@ const uint8_t keymaps[2][ROW_COUNT][COL_COUNT] = {
     { ______, KEY_BACKSPACE, '7', '8', '9', '(', ')' },
     { KEY_TAB, KEY_RETURN, '4', '5', '6', '[', ']' },
     { ______, KC_L1, '1', '2', '3', '{', '}' },
-    { ______, ' ', KEY_RIGHT_CTRL, KEY_RIGHT_SHIFT, ______, ______, ______ }
+    { ______, ' ', KEY_RIGHT_ALT, '0', ______, ______, ______ }
   }
 };
 
@@ -104,7 +104,7 @@ void scanMatrix() {
   // We check the physical location of KC_L1 (Row 2, Col 0 in 0-indexed array)
   // Note: We need to know the state *before* sending keys, so we use the state from the previous scan
   // or logic inside the loop. For simplicity, we check keyState directly.
-  if (keyState[2][0] == true) { 
+  if (keyState[2][1] == true) { 
     currentLayer = 1;
   } else {
     currentLayer = 0;
