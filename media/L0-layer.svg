@@ -2,22 +2,53 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="164.54166mm"
-   height="41.775002mm"
-   viewBox="0 0 164.54166 41.775002"
+   width="164.54167mm"
+   height="41.774998mm"
+   viewBox="0 0 164.54167 41.774998"
    version="1.1"
    id="svg5"
    xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="5-layer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="177"
+     inkscape:cy="303"
+     inkscape:window-width="862"
+     inkscape:window-height="885"
+     inkscape:window-x="1914"
+     inkscape:window-y="333"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g18632"><inkscape:grid
+       type="xygrid"
+       id="grid6050" /></sodipodi:namedview><defs
      id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-35.468755,-27.266668)"><g
-       id="g27986"><path
+     transform="translate(-35.468753,-27.266667)"><g
+       id="g27986"
+       inkscape:label="L0"><path
          id="path403"
          style="opacity:0.5;fill:#969696;fill-opacity:1;stroke:#fe9c00;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 199.76042,31.75 H 166.6875 v -2.38125 h -9.26042 v -1.852083 h -9.26041 v 1.852083 h -9.26042 V 31.75 h -18.52083 v 27.78125 h 9.26041 v 9.260417 h 9.26042 v -2.38125 h 9.26042 v -1.852084 h 9.26041 v -7.14375 h 9.26042 v 2.116667 h 32.80833 z" /><g
-         id="g14610"><rect
+         d="M 199.76042,31.75 H 166.6875 v -2.38125 h -9.26042 v -1.852083 h -9.26041 v 1.852083 h -9.26042 V 31.75 h -18.52083 v 27.78125 h 9.26041 v 9.260417 h 9.26042 v -2.38125 h 9.26042 v -1.852084 h 9.26041 v -7.14375 h 9.26042 v 2.116667 h 32.80833 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc"
+         inkscape:label="plate" /><g
+         id="g14610"
+         inkscape:label="button-set"><rect
            style="fill:#fe9c00;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect13837"
            width="7.4083333"
@@ -172,8 +203,10 @@
            x="167.48125"
            y="51.064583"
            ry="0.52916563" /></g><g
-         id="g8859"><g
-           id="g14586"><path
+         id="g8859"
+         inkscape:label="pico"><g
+           id="g14586"
+           inkscape:label="pico"><path
              id="rect8024"
              style="display:inline;fill:#3b6522;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
              d="m 187.85417,33.072918 h 9.26041 c 0.7329,0 1.32292,0.59002 1.32292,1.322915 v 22.489586 c 0,0.732895 -0.59002,1.322915 -1.32292,1.322915 h -9.26041 c -0.7329,0 -1.32292,-0.59002 -1.32292,-1.322915 V 34.395833 c 0,-0.732895 0.59002,-1.322915 1.32292,-1.322915 z" /><path
@@ -326,6 +359,7 @@
            x="186.79915"
            y="34.336651"
            id="text417"><tspan
+             sodipodi:role="line"
              id="tspan1126"
              x="186.79915"
              y="34.336651">GP0</tspan></text><text
@@ -334,6 +368,7 @@
            x="186.8006"
            y="35.529186"
            id="text1130"><tspan
+             sodipodi:role="line"
              id="tspan1132"
              x="186.8006"
              y="35.529186">GP1</tspan></text><text
@@ -343,6 +378,7 @@
            y="189.89093"
            id="text1136"
            transform="rotate(-90)"><tspan
+             sodipodi:role="line"
              id="tspan1138"
              x="-38.502159"
              y="189.89093">BOOTSEL</tspan></text><text
@@ -351,6 +387,7 @@
            x="186.79427"
            y="36.737309"
            id="text1228"><tspan
+             sodipodi:role="line"
              id="tspan1230"
              x="186.79427"
              y="36.737309">GND</tspan></text><text
@@ -359,6 +396,7 @@
            x="186.80504"
            y="37.961021"
            id="text1234"><tspan
+             sodipodi:role="line"
              id="tspan1964"
              x="186.80504"
              y="37.961021">GP2</tspan></text><text
@@ -367,6 +405,7 @@
            x="186.80341"
            y="39.151646"
            id="text1968"><tspan
+             sodipodi:role="line"
              id="tspan1970"
              x="186.80341"
              y="39.151646">GP3</tspan></text><text
@@ -375,6 +414,7 @@
            x="186.79861"
            y="40.35054"
            id="text1974"><tspan
+             sodipodi:role="line"
              id="tspan1976"
              x="186.79861"
              y="40.35054">GP4</tspan></text><text
@@ -383,6 +423,7 @@
            x="186.80205"
            y="41.590775"
            id="text1980"><tspan
+             sodipodi:role="line"
              id="tspan1982"
              x="186.80205"
              y="41.590775">GP5</tspan></text><text
@@ -391,6 +432,7 @@
            x="186.79427"
            y="42.789654"
            id="text1986"><tspan
+             sodipodi:role="line"
              id="tspan1984"
              x="186.79427"
              y="42.789654">GND</tspan></text><text
@@ -399,6 +441,7 @@
            x="186.79427"
            y="48.834957"
            id="text1990"><tspan
+             sodipodi:role="line"
              id="tspan1988"
              x="186.79427"
              y="48.834957">GND</tspan></text><text
@@ -407,6 +450,7 @@
            x="186.79427"
            y="54.868568"
            id="text1994"><tspan
+             sodipodi:role="line"
              id="tspan1992"
              x="186.79427"
              y="54.868568">GND</tspan></text><text
@@ -415,6 +459,7 @@
            x="186.79933"
            y="43.976154"
            id="text1998"><tspan
+             sodipodi:role="line"
              id="tspan2000"
              x="186.79933"
              y="43.976154">GP6</tspan></text><text
@@ -423,6 +468,7 @@
            x="186.80286"
            y="45.203922"
            id="text2004"><tspan
+             sodipodi:role="line"
              id="tspan2006"
              x="186.80286"
              y="45.203922">GP7</tspan></text><text
@@ -431,6 +477,7 @@
            x="186.79753"
            y="46.408306"
            id="text2010"><tspan
+             sodipodi:role="line"
              id="tspan2012"
              x="186.79753"
              y="46.408306">GP8</tspan></text><text
@@ -439,6 +486,7 @@
            x="186.80124"
            y="47.600998"
            id="text2016"><tspan
+             sodipodi:role="line"
              id="tspan2018"
              x="186.80124"
              y="47.600998">GP9</tspan></text><text
@@ -447,6 +495,7 @@
            x="186.79915"
            y="50.044842"
            id="text2022"><tspan
+             sodipodi:role="line"
              id="tspan2024"
              x="186.79915"
              y="50.044842">GP10</tspan></text><text
@@ -455,6 +504,7 @@
            x="186.8006"
            y="51.235466"
            id="text2028"><tspan
+             sodipodi:role="line"
              id="tspan2030"
              x="186.8006"
              y="51.235466">GP11</tspan></text><text
@@ -463,6 +513,7 @@
            x="186.80504"
            y="52.459164"
            id="text2034"><tspan
+             sodipodi:role="line"
              id="tspan2036"
              x="186.80504"
              y="52.459164">GP12</tspan></text><text
@@ -471,6 +522,7 @@
            x="186.80341"
            y="53.666325"
            id="text2040"><tspan
+             sodipodi:role="line"
              id="tspan2042"
              x="186.80341"
              y="53.666325">GP13</tspan></text><text
@@ -479,6 +531,7 @@
            x="186.79861"
            y="56.080647"
            id="text2046"><tspan
+             sodipodi:role="line"
              id="tspan2048"
              x="186.79861"
              y="56.080647">GP14</tspan></text><text
@@ -487,6 +540,7 @@
            x="186.80205"
            y="57.155518"
            id="text2052"><tspan
+             sodipodi:role="line"
              id="tspan2054"
              x="186.80205"
              y="57.155518">GP15</tspan></text><text
@@ -495,6 +549,7 @@
            x="198.18262"
            y="34.336651"
            id="text2138"><tspan
+             sodipodi:role="line"
              id="tspan2404"
              x="198.18262"
              y="34.336651">VBUS</tspan></text><text
@@ -503,6 +558,7 @@
            x="198.18407"
            y="35.529186"
            id="text2142"><tspan
+             sodipodi:role="line"
              id="tspan2406"
              x="198.18407"
              y="35.529186">VSYS</tspan></text><text
@@ -511,6 +567,7 @@
            x="198.17773"
            y="36.737309"
            id="text2146"><tspan
+             sodipodi:role="line"
              id="tspan2144"
              x="198.17773"
              y="36.737309">GND</tspan></text><text
@@ -519,6 +576,7 @@
            x="198.18851"
            y="37.961021"
            id="text2150"><tspan
+             sodipodi:role="line"
              id="tspan2410"
              x="198.18851"
              y="37.961021">3V3I</tspan></text><text
@@ -527,6 +585,7 @@
            x="198.18687"
            y="39.151646"
            id="text2154"><tspan
+             sodipodi:role="line"
              id="tspan2412"
              x="198.18687"
              y="39.151646">3V3O</tspan></text><text
@@ -535,6 +594,7 @@
            x="198.18208"
            y="40.35054"
            id="text2158"><tspan
+             sodipodi:role="line"
              id="tspan2414"
              x="198.18208"
              y="40.35054">VREF</tspan></text><text
@@ -543,6 +603,7 @@
            x="198.18552"
            y="41.590775"
            id="text2162"><tspan
+             sodipodi:role="line"
              id="tspan2402"
              x="198.18552"
              y="41.590775">GP28</tspan></text><text
@@ -551,6 +612,7 @@
            x="198.17773"
            y="42.789654"
            id="text2166"><tspan
+             sodipodi:role="line"
              id="tspan2164"
              x="198.17773"
              y="42.789654">GND</tspan></text><text
@@ -559,6 +621,7 @@
            x="198.17773"
            y="48.834957"
            id="text2170"><tspan
+             sodipodi:role="line"
              id="tspan2168"
              x="198.17773"
              y="48.834957">GND</tspan></text><text
@@ -567,6 +630,7 @@
            x="198.17773"
            y="54.868568"
            id="text2174"><tspan
+             sodipodi:role="line"
              id="tspan2172"
              x="198.17773"
              y="54.868568">GND</tspan></text><text
@@ -575,6 +639,7 @@
            x="198.1828"
            y="44.021629"
            id="text2178"><tspan
+             sodipodi:role="line"
              id="tspan2400"
              x="198.1828"
              y="44.021629">GP27</tspan></text><text
@@ -583,6 +648,7 @@
            x="198.18633"
            y="45.203922"
            id="text2182"><tspan
+             sodipodi:role="line"
              id="tspan2398"
              x="198.18633"
              y="45.203922">GP26</tspan></text><text
@@ -591,6 +657,7 @@
            x="198.181"
            y="46.408306"
            id="text2186"><tspan
+             sodipodi:role="line"
              id="tspan2396"
              x="198.181"
              y="46.408306">RUN</tspan></text><text
@@ -599,6 +666,7 @@
            x="198.18471"
            y="47.600998"
            id="text2190"><tspan
+             sodipodi:role="line"
              id="tspan2390"
              x="198.18471"
              y="47.600998">GP22</tspan></text><text
@@ -607,6 +675,7 @@
            x="198.18262"
            y="50.044842"
            id="text2194"><tspan
+             sodipodi:role="line"
              id="tspan2388"
              x="198.18262"
              y="50.044842">GP21</tspan></text><text
@@ -615,6 +684,7 @@
            x="198.18407"
            y="51.235466"
            id="text2198"><tspan
+             sodipodi:role="line"
              id="tspan2386"
              x="198.18407"
              y="51.235466">GP20</tspan></text><text
@@ -623,6 +693,7 @@
            x="198.18851"
            y="52.459164"
            id="text2202"><tspan
+             sodipodi:role="line"
              id="tspan2384"
              x="198.18851"
              y="52.459164">GP19</tspan></text><text
@@ -631,6 +702,7 @@
            x="198.18687"
            y="53.666325"
            id="text2206"><tspan
+             sodipodi:role="line"
              id="tspan2382"
              x="198.18687"
              y="53.666325">GP18</tspan></text><text
@@ -639,6 +711,7 @@
            x="198.18208"
            y="56.080647"
            id="text2210"><tspan
+             sodipodi:role="line"
              id="tspan2380"
              x="198.18208"
              y="56.080647">GP17</tspan></text><text
@@ -647,6 +720,7 @@
            x="198.18552"
            y="57.155518"
            id="text2214"><tspan
+             sodipodi:role="line"
              id="tspan2378"
              x="198.18552"
              y="57.155518">GP16</tspan></text><text
@@ -655,6 +729,7 @@
            x="192.65326"
            y="49.213306"
            id="text2763"><tspan
+             sodipodi:role="line"
              id="tspan2765"
              x="192.65326"
              y="49.213306">Raspberry PI Pico W</tspan></text><text
@@ -663,12 +738,15 @@
            x="192.57886"
            y="44.144882"
            id="text2933"><tspan
+             sodipodi:role="line"
              id="tspan2935"
              x="192.57886"
              y="44.144882">RP2-B2</tspan><tspan
+             sodipodi:role="line"
              id="tspan2937"
              x="192.57886"
              y="44.585854">22/23</tspan><tspan
+             sodipodi:role="line"
              id="tspan2939"
              x="192.57886"
              y="45.026829">PMN731.00</tspan></text></g><text
@@ -677,16 +755,19 @@
          x="152.41229"
          y="60.194817"
          id="text7293"><tspan
+           sodipodi:role="line"
            id="tspan7291"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
            x="152.41229"
            y="60.194817">Shift</tspan></text><g
-         id="g8719"><text
+         id="g8719"
+         inkscape:label="L0R"><text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
            x="134.07761"
            y="64.5914"
            id="text7127"><tspan
+             sodipodi:role="line"
              id="tspan7125"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="134.07761"
@@ -696,6 +777,7 @@
            x="125.14412"
            y="46.25671"
            id="text7285"><tspan
+             sodipodi:role="line"
              id="tspan7283"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="125.14412"
@@ -705,6 +787,7 @@
            x="143.01109"
            y="62.43988"
            id="text7289"><tspan
+             sodipodi:role="line"
              id="tspan7287"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="143.01109"
@@ -714,6 +797,7 @@
            x="134.17116"
            y="55.330509"
            id="text7297"><tspan
+             sodipodi:role="line"
              id="tspan7295"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="134.17116"
@@ -723,6 +807,7 @@
            x="142.91756"
            y="53.693481"
            id="text7301"><tspan
+             sodipodi:role="line"
              id="tspan7299"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="142.91756"
@@ -732,6 +817,7 @@
            x="134.17114"
            y="37.136135"
            id="text7305"><tspan
+             sodipodi:role="line"
              id="tspan7303"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="134.17114"
@@ -741,6 +827,7 @@
            x="134.17114"
            y="46.350254"
            id="text7309"><tspan
+             sodipodi:role="line"
              id="tspan7307"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="134.17114"
@@ -750,6 +837,7 @@
            x="143.01111"
            y="44.900314"
            id="text7313"><tspan
+             sodipodi:role="line"
              id="tspan7311"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="143.01111"
@@ -759,6 +847,7 @@
            x="143.15143"
            y="35.686199"
            id="text7317"><tspan
+             sodipodi:role="line"
              id="tspan7315"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="143.15143"
@@ -768,6 +857,7 @@
            x="152.22522"
            y="51.775822"
            id="text7321"><tspan
+             sodipodi:role="line"
              id="tspan7319"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="152.22522"
@@ -777,6 +867,7 @@
            x="152.31877"
            y="42.982655"
            id="text7325"><tspan
+             sodipodi:role="line"
              id="tspan7323"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="152.31877"
@@ -786,6 +877,7 @@
            x="152.45909"
            y="33.768539"
            id="text7329"><tspan
+             sodipodi:role="line"
              id="tspan7327"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="152.45909"
@@ -795,6 +887,7 @@
            x="161.39256"
            y="54.020885"
            id="text7333"><tspan
+             sodipodi:role="line"
              id="tspan7331"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="161.39256"
@@ -804,6 +897,7 @@
            x="161.48611"
            y="45.227718"
            id="text7337"><tspan
+             sodipodi:role="line"
              id="tspan7335"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="161.48611"
@@ -813,6 +907,7 @@
            x="161.62643"
            y="36.013603"
            id="text7341"><tspan
+             sodipodi:role="line"
              id="tspan7339"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="161.62643"
@@ -822,6 +917,7 @@
            x="171.02763"
            y="56.078861"
            id="text7345"><tspan
+             sodipodi:role="line"
              id="tspan7343"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="171.02763"
@@ -831,6 +927,7 @@
            x="171.12119"
            y="47.285694"
            id="text7349"><tspan
+             sodipodi:role="line"
              id="tspan7347"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="171.12119"
@@ -840,6 +937,7 @@
            x="171.26151"
            y="38.071579"
            id="text7353"><tspan
+             sodipodi:role="line"
              id="tspan7351"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="171.26151"
@@ -849,6 +947,7 @@
            x="180.24176"
            y="47.285694"
            id="text7361"><tspan
+             sodipodi:role="line"
              id="tspan7359"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="180.24176"
@@ -858,23 +957,28 @@
            x="180.38208"
            y="38.071579"
            id="text7365"><tspan
+             sodipodi:role="line"
              id="tspan7363"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="180.38208"
              y="38.071579">P</tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-           x="180.28851"
-           y="55.330509"
-           id="text17006"><tspan
-             id="tspan17004"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
-             x="180.28851"
-             y="55.330509">Alt</tspan></text></g><path
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+           x="180.15576"
+           y="56.078861"
+           id="text7422"><tspan
+             sodipodi:role="line"
+             id="tspan7420"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
+             x="180.15576"
+             y="56.078861">;</tspan></text></g><path
          id="path8265"
          style="opacity:0.5;fill:#969696;fill-opacity:1;stroke:#fe9c00;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 35.718753,31.75 H 68.79167 v -2.38125 h 9.26042 v -1.852083 h 9.26041 v 1.852083 h 9.26042 V 31.75 h 18.52083 v 27.78125 h -9.26041 v 9.260417 h -9.26042 v -2.38125 H 87.3125 v -1.852084 h -9.26041 v -7.14375 H 68.79167 V 59.53125 H 35.983343 Z" /><g
+         d="M 35.718753,31.75 H 68.79167 v -2.38125 h 9.26042 v -1.852083 h 9.26041 v 1.852083 h 9.26042 V 31.75 h 18.52083 v 27.78125 h -9.26041 v 9.260417 h -9.26042 v -2.38125 H 87.3125 v -1.852084 h -9.26041 v -7.14375 H 68.79167 V 59.53125 H 35.983343 Z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc"
+         inkscape:label="plate" /><g
          id="g8411"
+         inkscape:label="button-set"
          transform="matrix(-1,0,0,1,235.47917,0)"><rect
            style="fill:#fe9c00;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect8367"
@@ -1030,12 +1134,14 @@
            x="167.48125"
            y="51.064583"
            ry="0.52916563" /></g><g
-         id="g9455"><text
+         id="g9455"
+         inkscape:label="L0L"><text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
            x="101.47539"
            y="64.5914"
            id="text8591"><tspan
+             sodipodi:role="line"
              id="tspan8589"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="101.47539"
@@ -1045,6 +1151,7 @@
            x="92.474594"
            y="62.43988"
            id="text8599"><tspan
+             sodipodi:role="line"
              id="tspan8597"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="92.474594"
@@ -1054,6 +1161,7 @@
            x="83.153709"
            y="60.194817"
            id="text8603"><tspan
+             sodipodi:role="line"
              id="tspan8601"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="83.153709"
@@ -1063,6 +1171,7 @@
            x="101.21249"
            y="55.330509"
            id="text8607"><tspan
+             sodipodi:role="line"
              id="tspan8605"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="101.21249"
@@ -1072,6 +1181,7 @@
            x="92.444389"
            y="53.693481"
            id="text8611"><tspan
+             sodipodi:role="line"
              id="tspan8609"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="92.444389"
@@ -1081,6 +1191,7 @@
            x="101.21143"
            y="37.136135"
            id="text8615"><tspan
+             sodipodi:role="line"
              id="tspan8613"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="101.21143"
@@ -1090,6 +1201,7 @@
            x="92.468063"
            y="44.900314"
            id="text8623"><tspan
+             sodipodi:role="line"
              id="tspan8621"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="92.468063"
@@ -1099,6 +1211,7 @@
            x="92.327744"
            y="35.686199"
            id="text8627"><tspan
+             sodipodi:role="line"
              id="tspan8625"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="92.327744"
@@ -1108,6 +1221,7 @@
            x="83.253944"
            y="51.775822"
            id="text8631"><tspan
+             sodipodi:role="line"
              id="tspan8629"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="83.253944"
@@ -1117,6 +1231,7 @@
            x="83.308022"
            y="42.982655"
            id="text8635"><tspan
+             sodipodi:role="line"
              id="tspan8633"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="83.308022"
@@ -1126,6 +1241,7 @@
            x="83.020073"
            y="33.768539"
            id="text8639"><tspan
+             sodipodi:role="line"
              id="tspan8637"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="83.020073"
@@ -1135,6 +1251,7 @@
            x="74.086601"
            y="54.020885"
            id="text8643"><tspan
+             sodipodi:role="line"
              id="tspan8641"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="74.086601"
@@ -1144,6 +1261,7 @@
            x="73.699974"
            y="45.227718"
            id="text8647"><tspan
+             sodipodi:role="line"
              id="tspan8645"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="73.699974"
@@ -1153,6 +1271,7 @@
            x="73.85273"
            y="36.013603"
            id="text8651"><tspan
+             sodipodi:role="line"
              id="tspan8649"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="73.85273"
@@ -1162,6 +1281,7 @@
            x="64.462387"
            y="56.078861"
            id="text8655"><tspan
+             sodipodi:role="line"
              id="tspan8653"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="64.462387"
@@ -1171,6 +1291,7 @@
            x="64.138718"
            y="47.285694"
            id="text8659"><tspan
+             sodipodi:role="line"
              id="tspan8657"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="64.138718"
@@ -1180,6 +1301,7 @@
            x="64.217659"
            y="38.071579"
            id="text8663"><tspan
+             sodipodi:role="line"
              id="tspan8661"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="64.217659"
@@ -1189,6 +1311,7 @@
            x="55.254776"
            y="47.285694"
            id="text8671"><tspan
+             sodipodi:role="line"
              id="tspan8669"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="55.254776"
@@ -1198,6 +1321,7 @@
            x="55.192341"
            y="38.071579"
            id="text8675"><tspan
+             sodipodi:role="line"
              id="tspan8673"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="55.192341"
@@ -1207,6 +1331,7 @@
            x="110.37466"
            y="47.285694"
            id="text10558"><tspan
+             sodipodi:role="line"
              id="tspan10556"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="110.37466"
@@ -1216,6 +1341,7 @@
            x="101.49072"
            y="47.285694"
            id="text10562"><tspan
+             sodipodi:role="line"
              id="tspan10560"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="101.49072"
@@ -1225,14 +1351,17 @@
            x="55.372459"
            y="55.630753"
            id="text13798"><tspan
+             sodipodi:role="line"
              id="tspan13796"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:3"
              x="55.372459"
              y="55.630753">Alt</tspan></text></g><g
          id="g9409"
+         inkscape:label="pico"
          transform="translate(-149.532)"
          style="display:inline"><g
-           id="g9231"><path
+           id="g9231"
+           inkscape:label="pico"><path
              id="path9133"
              style="display:inline;fill:#3b6522;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
              d="m 187.85417,33.072918 h 9.26041 c 0.7329,0 1.32292,0.59002 1.32292,1.322915 v 22.489586 c 0,0.732895 -0.59002,1.322915 -1.32292,1.322915 h -9.26041 c -0.7329,0 -1.32292,-0.59002 -1.32292,-1.322915 V 34.395833 c 0,-0.732895 0.59002,-1.322915 1.32292,-1.322915 z" /><path
@@ -1385,6 +1514,7 @@
            x="186.79915"
            y="34.336651"
            id="text9235"><tspan
+             sodipodi:role="line"
              id="tspan9233"
              x="186.79915"
              y="34.336651">GP0</tspan></text><text
@@ -1393,6 +1523,7 @@
            x="186.8006"
            y="35.529186"
            id="text9239"><tspan
+             sodipodi:role="line"
              id="tspan9237"
              x="186.8006"
              y="35.529186">GP1</tspan></text><text
@@ -1402,6 +1533,7 @@
            y="189.89093"
            id="text9243"
            transform="rotate(-90)"><tspan
+             sodipodi:role="line"
              id="tspan9241"
              x="-38.502159"
              y="189.89093">BOOTSEL</tspan></text><text
@@ -1410,6 +1542,7 @@
            x="186.79427"
            y="36.737309"
            id="text9247"><tspan
+             sodipodi:role="line"
              id="tspan9245"
              x="186.79427"
              y="36.737309">GND</tspan></text><text
@@ -1418,6 +1551,7 @@
            x="186.80504"
            y="37.961021"
            id="text9251"><tspan
+             sodipodi:role="line"
              id="tspan9249"
              x="186.80504"
              y="37.961021">GP2</tspan></text><text
@@ -1426,6 +1560,7 @@
            x="186.80341"
            y="39.151646"
            id="text9255"><tspan
+             sodipodi:role="line"
              id="tspan9253"
              x="186.80341"
              y="39.151646">GP3</tspan></text><text
@@ -1434,6 +1569,7 @@
            x="186.79861"
            y="40.35054"
            id="text9259"><tspan
+             sodipodi:role="line"
              id="tspan9257"
              x="186.79861"
              y="40.35054">GP4</tspan></text><text
@@ -1442,6 +1578,7 @@
            x="186.80205"
            y="41.590775"
            id="text9263"><tspan
+             sodipodi:role="line"
              id="tspan9261"
              x="186.80205"
              y="41.590775">GP5</tspan></text><text
@@ -1450,6 +1587,7 @@
            x="186.79427"
            y="42.789654"
            id="text9267"><tspan
+             sodipodi:role="line"
              id="tspan9265"
              x="186.79427"
              y="42.789654">GND</tspan></text><text
@@ -1458,6 +1596,7 @@
            x="186.79427"
            y="48.834957"
            id="text9271"><tspan
+             sodipodi:role="line"
              id="tspan9269"
              x="186.79427"
              y="48.834957">GND</tspan></text><text
@@ -1466,6 +1605,7 @@
            x="186.79427"
            y="54.868568"
            id="text9275"><tspan
+             sodipodi:role="line"
              id="tspan9273"
              x="186.79427"
              y="54.868568">GND</tspan></text><text
@@ -1474,6 +1614,7 @@
            x="186.79933"
            y="43.976154"
            id="text9279"><tspan
+             sodipodi:role="line"
              id="tspan9277"
              x="186.79933"
              y="43.976154">GP6</tspan></text><text
@@ -1482,6 +1623,7 @@
            x="186.80286"
            y="45.203922"
            id="text9283"><tspan
+             sodipodi:role="line"
              id="tspan9281"
              x="186.80286"
              y="45.203922">GP7</tspan></text><text
@@ -1490,6 +1632,7 @@
            x="186.79753"
            y="46.408306"
            id="text9287"><tspan
+             sodipodi:role="line"
              id="tspan9285"
              x="186.79753"
              y="46.408306">GP8</tspan></text><text
@@ -1498,6 +1641,7 @@
            x="186.80124"
            y="47.600998"
            id="text9291"><tspan
+             sodipodi:role="line"
              id="tspan9289"
              x="186.80124"
              y="47.600998">GP9</tspan></text><text
@@ -1506,6 +1650,7 @@
            x="186.79915"
            y="50.044842"
            id="text9295"><tspan
+             sodipodi:role="line"
              id="tspan9293"
              x="186.79915"
              y="50.044842">GP10</tspan></text><text
@@ -1514,6 +1659,7 @@
            x="186.8006"
            y="51.235466"
            id="text9299"><tspan
+             sodipodi:role="line"
              id="tspan9297"
              x="186.8006"
              y="51.235466">GP11</tspan></text><text
@@ -1522,6 +1668,7 @@
            x="186.80504"
            y="52.459164"
            id="text9303"><tspan
+             sodipodi:role="line"
              id="tspan9301"
              x="186.80504"
              y="52.459164">GP12</tspan></text><text
@@ -1530,6 +1677,7 @@
            x="186.80341"
            y="53.666325"
            id="text9307"><tspan
+             sodipodi:role="line"
              id="tspan9305"
              x="186.80341"
              y="53.666325">GP13</tspan></text><text
@@ -1538,6 +1686,7 @@
            x="186.79861"
            y="56.080647"
            id="text9311"><tspan
+             sodipodi:role="line"
              id="tspan9309"
              x="186.79861"
              y="56.080647">GP14</tspan></text><text
@@ -1546,6 +1695,7 @@
            x="186.80205"
            y="57.155518"
            id="text9315"><tspan
+             sodipodi:role="line"
              id="tspan9313"
              x="186.80205"
              y="57.155518">GP15</tspan></text><text
@@ -1554,6 +1704,7 @@
            x="198.18262"
            y="34.336651"
            id="text9319"><tspan
+             sodipodi:role="line"
              id="tspan9317"
              x="198.18262"
              y="34.336651">VBUS</tspan></text><text
@@ -1562,6 +1713,7 @@
            x="198.18407"
            y="35.529186"
            id="text9323"><tspan
+             sodipodi:role="line"
              id="tspan9321"
              x="198.18407"
              y="35.529186">VSYS</tspan></text><text
@@ -1570,6 +1722,7 @@
            x="198.17773"
            y="36.737309"
            id="text9327"><tspan
+             sodipodi:role="line"
              id="tspan9325"
              x="198.17773"
              y="36.737309">GND</tspan></text><text
@@ -1578,6 +1731,7 @@
            x="198.18851"
            y="37.961021"
            id="text9331"><tspan
+             sodipodi:role="line"
              id="tspan9329"
              x="198.18851"
              y="37.961021">3V3I</tspan></text><text
@@ -1586,6 +1740,7 @@
            x="198.18687"
            y="39.151646"
            id="text9335"><tspan
+             sodipodi:role="line"
              id="tspan9333"
              x="198.18687"
              y="39.151646">3V3O</tspan></text><text
@@ -1594,6 +1749,7 @@
            x="198.18208"
            y="40.35054"
            id="text9339"><tspan
+             sodipodi:role="line"
              id="tspan9337"
              x="198.18208"
              y="40.35054">VREF</tspan></text><text
@@ -1602,6 +1758,7 @@
            x="198.18552"
            y="41.590775"
            id="text9343"><tspan
+             sodipodi:role="line"
              id="tspan9341"
              x="198.18552"
              y="41.590775">GP28</tspan></text><text
@@ -1610,6 +1767,7 @@
            x="198.17773"
            y="42.789654"
            id="text9347"><tspan
+             sodipodi:role="line"
              id="tspan9345"
              x="198.17773"
              y="42.789654">GND</tspan></text><text
@@ -1618,6 +1776,7 @@
            x="198.17773"
            y="48.834957"
            id="text9351"><tspan
+             sodipodi:role="line"
              id="tspan9349"
              x="198.17773"
              y="48.834957">GND</tspan></text><text
@@ -1626,6 +1785,7 @@
            x="198.17773"
            y="54.868568"
            id="text9355"><tspan
+             sodipodi:role="line"
              id="tspan9353"
              x="198.17773"
              y="54.868568">GND</tspan></text><text
@@ -1634,6 +1794,7 @@
            x="198.1828"
            y="44.021629"
            id="text9359"><tspan
+             sodipodi:role="line"
              id="tspan9357"
              x="198.1828"
              y="44.021629">GP27</tspan></text><text
@@ -1642,6 +1803,7 @@
            x="198.18633"
            y="45.203922"
            id="text9363"><tspan
+             sodipodi:role="line"
              id="tspan9361"
              x="198.18633"
              y="45.203922">GP26</tspan></text><text
@@ -1650,6 +1812,7 @@
            x="198.181"
            y="46.408306"
            id="text9367"><tspan
+             sodipodi:role="line"
              id="tspan9365"
              x="198.181"
              y="46.408306">RUN</tspan></text><text
@@ -1658,6 +1821,7 @@
            x="198.18471"
            y="47.600998"
            id="text9371"><tspan
+             sodipodi:role="line"
              id="tspan9369"
              x="198.18471"
              y="47.600998">GP22</tspan></text><text
@@ -1666,6 +1830,7 @@
            x="198.18262"
            y="50.044842"
            id="text9375"><tspan
+             sodipodi:role="line"
              id="tspan9373"
              x="198.18262"
              y="50.044842">GP21</tspan></text><text
@@ -1674,6 +1839,7 @@
            x="198.18407"
            y="51.235466"
            id="text9379"><tspan
+             sodipodi:role="line"
              id="tspan9377"
              x="198.18407"
              y="51.235466">GP20</tspan></text><text
@@ -1682,6 +1848,7 @@
            x="198.18851"
            y="52.459164"
            id="text9383"><tspan
+             sodipodi:role="line"
              id="tspan9381"
              x="198.18851"
              y="52.459164">GP19</tspan></text><text
@@ -1690,6 +1857,7 @@
            x="198.18687"
            y="53.666325"
            id="text9387"><tspan
+             sodipodi:role="line"
              id="tspan9385"
              x="198.18687"
              y="53.666325">GP18</tspan></text><text
@@ -1698,6 +1866,7 @@
            x="198.18208"
            y="56.080647"
            id="text9391"><tspan
+             sodipodi:role="line"
              id="tspan9389"
              x="198.18208"
              y="56.080647">GP17</tspan></text><text
@@ -1706,6 +1875,7 @@
            x="198.18552"
            y="57.155518"
            id="text9395"><tspan
+             sodipodi:role="line"
              id="tspan9393"
              x="198.18552"
              y="57.155518">GP16</tspan></text><text
@@ -1714,6 +1884,7 @@
            x="192.65326"
            y="49.213306"
            id="text9399"><tspan
+             sodipodi:role="line"
              id="tspan9397"
              x="192.65326"
              y="49.213306">Raspberry PI Pico W</tspan></text><text
@@ -1722,12 +1893,15 @@
            x="192.57886"
            y="44.144882"
            id="text9407"><tspan
+             sodipodi:role="line"
              id="tspan9401"
              x="192.57886"
              y="44.144882">RP2-B2</tspan><tspan
+             sodipodi:role="line"
              id="tspan9403"
              x="192.57886"
              y="44.585854">22/23</tspan><tspan
+             sodipodi:role="line"
              id="tspan9405"
              x="192.57886"
              y="45.026829">PMN731.00</tspan></text></g></g></g></svg>

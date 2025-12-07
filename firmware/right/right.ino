@@ -49,7 +49,7 @@ const uint8_t keymaps[2][ROW_COUNT][COL_COUNT] = {
   {
     { ______, KEY_BACKSPACE, 'y', 'u', 'i', 'o', 'p' },       // Row 28 (Index 0)
     { KEY_ESC, KEY_RETURN, 'h', 'j', 'k', 'l', '.' },         // Row 27 (Index 1)
-    { ______, KC_L1, 'b', 'n', 'm', ',', KEY_RIGHT_ALT },     // Row 26 (Index 2)
+    { ______, KC_L1, 'b', 'n', 'm', ',', ';' },     // Row 26 (Index 2)
     { ______, ' ', KEY_RIGHT_CTRL, KEY_RIGHT_SHIFT, ______, ______, ______ } // Row 22 (Index 3)
   },
 
