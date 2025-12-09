@@ -158,7 +158,7 @@ void setup() {
   Keyboard.begin();
   delay(500); 
 
-  // CRITICAL FIX: Send a report to release all keys on connection/reboot.
+  // Send a report to release all keys on connection/reboot.
   Keyboard.releaseAll(); 
   delay(500);
 }
@@ -188,7 +188,7 @@ void scanMatrix() {
     digitalWrite(COL_PINS[col], LOW);
   }
 
-  // --- NEW: Check if any key is held to control the LED ---
+  // --- Check if any key is held to control the LED ---
   bool isAnyKeyPressed = false;
   for (int r = 0; r < ROW_COUNT; r++) {
     for (int c = 0; c < COL_COUNT; c++) {
